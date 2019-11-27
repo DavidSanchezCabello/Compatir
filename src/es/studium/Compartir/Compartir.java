@@ -25,5 +25,6 @@ public class Compartir
 	{
 		Compartir objeto = new Compartir(33);
 		System.out.println(objeto.getVariable());
+		System.out.println();
 	}
 }
